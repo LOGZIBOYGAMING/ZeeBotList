@@ -1,0 +1,14 @@
+{
+  "name": "zeebotlist.xyz",
+  "version": "1.0.0",
+  "description": "Quickly and easily find Discord bots. Comes with prebuilt website; just uncomment lines in [api/server.ts](src/api/server.ts) to get this to work.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
